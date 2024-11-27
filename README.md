@@ -29,7 +29,7 @@ This Weather App is a web-based application designed to provide real-time weathe
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/nisch-mhrzn/Weather-application.git
    ```
 2. Navigate to the project directory:
    ```sh
